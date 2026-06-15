@@ -5,7 +5,7 @@ var
     a, b: real;
 
 begin
-    writeln('Ya sup im calculator, wha ya whant?');
+    writeln('Ya sup im calculator, wha ya want?');
     writeln('1 +');
     writeln('2 -');
     writeln('3 *');
